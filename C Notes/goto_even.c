@@ -1,2 +1,2 @@
-// even numbers from 1 to n using goto
+// even numbers from n - 1 using goto
 
