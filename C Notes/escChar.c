@@ -6,6 +6,6 @@ void main(){
 //	printf("Students\rHello");
 //	printf("Hello\bStudents");
 //	printf("Hello\\nWorld");
-//	printf("Hi \"Shiva\" Kumar");
-	printf("a\b=c");
+	printf("Hi \"Shiva\" Kumar");
+//	printf("a\b=c");
 }
