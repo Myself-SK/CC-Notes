@@ -2,10 +2,11 @@
 #include<stdio.h>
 void main(){
 //	printf("Hello\nWorld");
-//	printf("\tHellooo\tWorld");
+//	printf("\tHello\tWorld");
 //	printf("Students\rHello");
 //	printf("Hello\bStudents");
 //	printf("Hello\\nWorld");
-	printf("Hi \"Shiva\" Kumar");
+	printf("Hi \"Dishan\" Krishna");
 //	printf("a\b=c");
+
 }

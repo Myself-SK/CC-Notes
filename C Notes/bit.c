@@ -1,4 +1,4 @@
 #include<stdio.h>
 void main(){
-	printf("%d",10>>2);
+	printf("%d",10<<2);
 }
