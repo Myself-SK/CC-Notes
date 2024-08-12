@@ -17,9 +17,8 @@ void main(){
 				strcpy(s[i],s[j]);
 				strcpy(s[j],temp[i]);
 			}
-		}
+		} 
 	}
-	
 	printf("Sorted Names:\n");
 	for(i=0;i<n;i++){
 		puts(s[i]);
