@@ -1,6 +1,7 @@
 #include<iostream>
 #include<math.h>
 using namespace std;
+
 class Rectangle{
 	float length;
 	float width;

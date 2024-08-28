@@ -4,8 +4,8 @@ class Circle{
 	float radius;
 	
 	public:
-		void setRadius(float r){
-			this->radius = r;
+		void setRadius(float radius){
+			this->radius = radius;
 		}
 		
 		void calcDiameter(){
