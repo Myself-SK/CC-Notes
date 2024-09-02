@@ -10,6 +10,5 @@ class A{
 };
 int main(){
 	int a;
-	A b;
 	cout<<sizeof(A)<<endl;
 }
